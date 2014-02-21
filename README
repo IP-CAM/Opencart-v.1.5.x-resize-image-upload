@@ -1,0 +1,19 @@
+Resize Images on Upload - FREE v1.0.0 for OpenCart
+
+Increases image upload max filesize and automatically resizes images on filemanager upload in Admin dashboard panel.
+
+Default Settings:
+- max filesize 2MB (2000kb)
+- automatically resize images > 900px width or height down to 900px by 900px
+
+Settings can be edited by manually updating the vQmod file.
+
+Looking for a more user-friendly configuration option panel and/or need to set additional restrictions on the image such as dimension, filetype, and length of filename? Please see the full/premium version, Resize Images on Upload + Plus (http://www.opencart.com/index.php?route=extension/extension/info&extension_id=11497).
+	
+Requirements: OpenCart v1.5.0-1.5.6 with vQmod installed
+
+
+Author: Derek McKee - Garuda Crafts Web Development - derek@garudacrafts.com
+Copyright: Copyright (c) 2013-2014, Derek McKee
+
+See my other OpenCart extensions at http://www.opencart.com/index.php?route=extension/extension&filter_username=garudacrafts.
